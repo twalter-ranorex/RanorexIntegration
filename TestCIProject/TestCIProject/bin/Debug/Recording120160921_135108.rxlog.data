@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<report
+	progress="">
+	<activity
+		result="Success"
+		duration="0ms"
+		durationms="0"
+		type="root"
+		rid="f35044b4b374cb5"
+		totalerrorcount="0"
+		totalwarningcount="0"
+		totalsuccesscount="0"
+		totalfailedcount="0"
+		totalblockedcount="0"
+		user="twalter"
+		host="RXLAPTOP007"
+		rxversion="6.1.0.0"
+		osversion="Windows 10 64bit"
+		runtimeversion="4.0.30319.42000"
+		procarch="32bit"
+		language="en-US"
+		screenresolution="1920x1080"
+		timestamp="21.09.2016 13:51:11"
+		timestampiso="2016-09-21T11:51:11"
+		timeoutfactor="1"
+		module="Recording1">
+		<detail>
+			Recording1
+		</detail>
+		<varbindings/>
+		<item
+			timeRelativeToTestSuiteStartTime="00:00.484"
+			timeRelativeToTestModuleStartTime="00:00.484"
+			timeWallClock="13:51:11"
+			time="00:00.484"
+			level="Info"
+			category="Application">
+			<message>
+				Run application 'C:\Users\twalter\Documents\Ranorex\RanorexStudio Projects\MyCIProject\MyCIProject\bin\Debug\MyCIProject.exe' with arguments '' in normal mode.
+			</message>
+			<metainfo
+				itemindex="0"
+				codefile="c:\Users\twalter\Documents\Ranorex\RanorexStudio Projects\TestCIProject\TestCIProject\Recording1.cs"
+				codeline="82"
+				loglvl="Info"/>
+		</item>
+	</activity>
+</report>

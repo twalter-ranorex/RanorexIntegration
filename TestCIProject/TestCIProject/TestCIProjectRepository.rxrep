@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<repository
+id="aa2dac02-433c-4207-8444-34e4b47b7407"
+name="TestCIProjectRepository"
+rxversion="7.0">
+	<codegen
+	classname="TestCIProjectRepository"
+	namespace="TestCIProject">
+	</codegen>
+	<rootfolder
+	capname="unknown"
+	id="feec8763-4a4c-40f7-a7c0-c0c7d0c1fc7b"
+	isrooted="True"
+	name="Root"
+	searchtimeout="0ms"
+	usecache="True">
+		<appfolder
+		addcaps="form,nativewindow,wpfwin32element,wpfelement"
+		capname="form"
+		id="737c188a-5869-480f-b2b5-d29e86f914a8"
+		isrooted="True"
+		name="MainWindow"
+		refpath="/form[@wpfnative='True' and @title='MainWindow' and @processname='MyCIProject']"
+		searchtimeout="30000ms"
+		usecache="True">
+			<item
+			addcaps="button,wpfelement"
+			capname="button"
+			id="769a9590-ee38-4709-9063-ddd17f8d0d38"
+			name="Button1"
+			refimgid="f81c3bf5-f46f-4623-ad66-4f0807e8959f"
+			refpath="/form[@wpfnative='True' and @title='MainWindow' and @processname='MyCIProject']/container/button[@text='Button 1']"
+			searchtimeout="30000ms">
+				/form[@wpfnative='True' and @title='MainWindow' and @processname='MyCIProject']/?/?/button[@text='Button 1']
+			</item>
+			<item
+			addcaps="button,wpfelement"
+			capname="button"
+			id="dc12b0c1-56e8-41af-ac6d-aab518a9d94d"
+			name="Button2"
+			refimgid="60b2359d-0c26-45b7-b183-480e6a10cd5a"
+			refpath="/form[@wpfnative='True' and @title='MainWindow' and @processname='MyCIProject']/container/button[@text='Button 2']"
+			searchtimeout="30000ms">
+				/form[@wpfnative='True' and @title='MainWindow' and @processname='MyCIProject']/?/?/button[@text='Button 2']
+			</item>
+			<basepath>
+				/form[@wpfnative='True' and @title='MainWindow' and @processname='MyCIProject']
+			</basepath>
+			<icon>
+				iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAALGPC/xhBQAAAAlwSFlz
+AAAOxAAADsQBlSsOGwAAAlFJREFUOE+lk+tLk2EYh/eX9CGipCIyCKLo4HHlzA8SVoR9KogkkKDM
+CKRCCwQtKUjtIJSdrKggqQ+CFZmHHGlzzrU552HqNnWbO7zHXT3bBLXQoG74fXvv63c9z8tj+O9p
+aDFz55WDmuYBqpp+cLnRzJnqTk5UdlNc8YWic60Ulr6koOTJshw8/RjjkXIMdc9tNLVrNLZp3GqV
+qX4dofJZkIpHs5Q3+Tl710fJ7UlO1o5zvNrN0SoXh644yS8zsyZtB4baZjN1bwLcfBvm4oMpTt1w
+U3zdybFrDg5ftVNYYaPg0iCmcisHLgxgLLOQe95CRmk369KNGGoaXuAPxAhHNeZFQhGVYFghIDIb
+SsUbUPDMyLi9Mg6PhHVMosvqYePW7QJQ38JqE4+DokJEijMX0ZkKaoz6VSwuLxs2b8Nw/+n7hU//
+HE0HSYkzH9OZmdeYnNNw+xR+Tir0DP0FoItmWSwnm8M606J5TDQ7pxSs4zKd1tUACW1NLMtxglEd
+X0hjYlbD5VWwTSj0j8h8tgjAphUAi+pxZsRySl3FLtQtozK9wxLtfSsAkupqQl1PqQdS6o6kusJ3
+l0yXQ6LNnACkLwckb1yDqDh3YKn6dEq9zy3R45TosMX40PsbQOyiLqiHhLo/eesqIwl1z6L6V3uM
+T9Yo73q8rE8A7i0xEOVI4p+HYggATMyByxdnyKPRP6rxbVilw67wcVBOAtambRFvof4hufvzyTGa
+yBbJEskUycg1sS/HxN7sPPaI7M7KY1dmKjszUsnJL2LhTf7rGAy/AP7X5rYY5FLEAAAAAElFTkSu
+QmCC
+			</icon>
+		</appfolder>
+		<basepath>
+		</basepath>
+	</rootfolder>
+	<variables>
+	</variables>
+</repository>

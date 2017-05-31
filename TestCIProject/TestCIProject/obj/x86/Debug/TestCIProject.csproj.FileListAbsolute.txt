@@ -1,0 +1,16 @@
+C:\Users\twalter\Documents\Ranorex\RanorexStudio Projects\TestCIProject\TestCIProject\bin\Debug\TestCIProject.rxtmg
+C:\Users\twalter\Documents\Ranorex\RanorexStudio Projects\TestCIProject\TestCIProject\bin\Debug\TestCIProject.rxtst
+C:\Users\twalter\Documents\Ranorex\RanorexStudio Projects\TestCIProject\TestCIProject\bin\Debug\TestCIProject.exe.config
+C:\Users\twalter\Documents\Ranorex\RanorexStudio Projects\TestCIProject\TestCIProject\bin\Debug\TestCIProject.exe
+C:\Users\twalter\Documents\Ranorex\RanorexStudio Projects\TestCIProject\TestCIProject\bin\Debug\TestCIProject.pdb
+C:\Users\twalter\Documents\Ranorex\RanorexStudio Projects\TestCIProject\TestCIProject\obj\x86\Debug\TestCIProject.csprojResolveAssemblyReference.cache
+C:\Users\twalter\Documents\Ranorex\RanorexStudio Projects\TestCIProject\TestCIProject\obj\x86\Debug\TestCIProject.exe
+C:\Users\twalter\Documents\Ranorex\RanorexStudio Projects\TestCIProject\TestCIProject\obj\x86\Debug\TestCIProject.pdb
+C:\Users\twalter\Documents\Ranorex\RanorexStudio Projects\Repo\TestCIProject\TestCIProject\bin\Debug\TestCIProject.rxtmg
+C:\Users\twalter\Documents\Ranorex\RanorexStudio Projects\Repo\TestCIProject\TestCIProject\bin\Debug\TestCIProject.rxtst
+C:\Users\twalter\Documents\Ranorex\RanorexStudio Projects\Repo\TestCIProject\TestCIProject\bin\Debug\TestCIProject.exe.config
+C:\Users\twalter\Documents\Ranorex\RanorexStudio Projects\Repo\TestCIProject\TestCIProject\bin\Debug\TestCIProject.exe
+C:\Users\twalter\Documents\Ranorex\RanorexStudio Projects\Repo\TestCIProject\TestCIProject\bin\Debug\TestCIProject.pdb
+C:\Users\twalter\Documents\Ranorex\RanorexStudio Projects\Repo\TestCIProject\TestCIProject\obj\x86\Debug\TestCIProject.csprojResolveAssemblyReference.cache
+C:\Users\twalter\Documents\Ranorex\RanorexStudio Projects\Repo\TestCIProject\TestCIProject\obj\x86\Debug\TestCIProject.exe
+C:\Users\twalter\Documents\Ranorex\RanorexStudio Projects\Repo\TestCIProject\TestCIProject\obj\x86\Debug\TestCIProject.pdb

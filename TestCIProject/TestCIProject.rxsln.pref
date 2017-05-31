@@ -1,0 +1,12 @@
+﻿<Properties>
+  <ActiveConfiguration value="Debug" />
+  <ActivePlatform value="x86" />
+  <SerializedValue name="ModuleBrowserState">
+    <ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <string>{CEC8452B-8739-41CA-8254-3699F56A63AA}</string>
+      <string>60513a05-eab7-41e7-8c10-e51c735edc2e</string>
+    </ArrayOfString>
+  </SerializedValue>
+  <ProjectBrowserState value="[Solution TestCIProject[TestCIProject[]]]&#xD;&#xA;Solution TestCIProject\TestCIProject\TestCIProject.rxtst&#xD;&#xA;Solution TestCIProject" />
+  <StartupProject value="{CEC8452B-8739-41CA-8254-3699F56A63AA}" />
+</Properties>

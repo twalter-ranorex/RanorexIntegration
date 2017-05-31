@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<report
+	progress="">
+	<activity
+		result="Success"
+		duration="0ms"
+		durationms="0"
+		type="root"
+		rid="25e61219f25f4ea0"
+		totalerrorcount="0"
+		totalwarningcount="0"
+		totalsuccesscount="0"
+		totalfailedcount="0"
+		totalblockedcount="0"
+		user="twalter"
+		host="RXLAPTOP007"
+		rxversion="6.1.0.0"
+		osversion="Windows 10 64bit"
+		runtimeversion="4.0.30319.42000"
+		procarch="32bit"
+		language="en-US"
+		screenresolution="1920x1080"
+		timestamp="21.09.2016 13:51:56"
+		timestampiso="2016-09-21T11:51:56"
+		timeoutfactor="1"
+		module="Recording1">
+		<detail>
+			Recording1
+		</detail>
+		<varbindings/>
+		<item
+			timeRelativeToTestSuiteStartTime="00:00.500"
+			timeRelativeToTestModuleStartTime="00:00.500"
+			timeWallClock="13:51:56"
+			time="00:00.500"
+			level="Info"
+			category="Application">
+			<message>
+				Run application 'C:\Users\twalter\Documents\Ranorex\RanorexStudio Projects\MyCIProject\MyCIProject\bin\Debug\MyCIProject.exe' with arguments '' in normal mode.
+			</message>
+			<metainfo
+				itemindex="0"
+				codefile="c:\Users\twalter\Documents\Ranorex\RanorexStudio Projects\TestCIProject\TestCIProject\Recording1.cs"
+				codeline="82"
+				loglvl="Info"/>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:00.531"
+			timeRelativeToTestModuleStartTime="00:00.531"
+			timeWallClock="13:51:56"
+			time="00:00.531"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'MainWindow.Button1' at 92;9.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@wpfnative='True' and @title='MainWindow' and @processname='MyCIProject']/?/?/button[@text='Button 1']"
+				fullname="TestCIProjectRepository.MainWindow.Button1"
+				id="769a9590ee3847099063ddd17f8d0d38"
+				timeout="60000"
+				codefile="c:\Users\twalter\Documents\Ranorex\RanorexStudio Projects\TestCIProject\TestCIProject\Recording1.cs"
+				codeline="86"
+				itemindex="1"
+				loglvl="Info"/>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:02.218"
+			timeRelativeToTestModuleStartTime="00:02.218"
+			timeWallClock="13:51:58"
+			time="00:02.218"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'MainWindow.Button2' at 87;10.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@wpfnative='True' and @title='MainWindow' and @processname='MyCIProject']/?/?/button[@text='Button 2']"
+				fullname="TestCIProjectRepository.MainWindow.Button2"
+				id="dc12b0c156e841afac6daab518a9d94d"
+				timeout="60000"
+				codefile="c:\Users\twalter\Documents\Ranorex\RanorexStudio Projects\TestCIProject\TestCIProject\Recording1.cs"
+				codeline="90"
+				itemindex="2"
+				loglvl="Info"/>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:02.968"
+			timeRelativeToTestModuleStartTime="00:02.968"
+			timeWallClock="13:51:59"
+			time="00:02.968"
+			level="Info"
+			category="Application">
+			<message>
+				Closing application containing item 'MainWindow'.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@wpfnative='True' and @title='MainWindow' and @processname='MyCIProject']"
+				fullname="TestCIProjectRepository.MainWindow.Self"
+				id="737c188a5869480fb2b5d29e86f914a8"
+				timeout="30000"
+				codefile="c:\Users\twalter\Documents\Ranorex\RanorexStudio Projects\TestCIProject\TestCIProject\Recording1.cs"
+				codeline="94"
+				itemindex="3"
+				loglvl="Info"/>
+		</item>
+	</activity>
+</report>

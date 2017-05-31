@@ -1,0 +1,13 @@
+c:\users\twalter\documents\visual studio 2012\Projects\MyCIProject\MyCIProject\bin\Debug\MyCIProject.exe.config
+c:\users\twalter\documents\visual studio 2012\Projects\MyCIProject\MyCIProject\bin\Debug\MyCIProject.exe
+c:\users\twalter\documents\visual studio 2012\Projects\MyCIProject\MyCIProject\bin\Debug\MyCIProject.pdb
+c:\users\twalter\documents\visual studio 2012\Projects\MyCIProject\MyCIProject\obj\Debug\MyCIProject.csprojResolveAssemblyReference.cache
+c:\users\twalter\documents\visual studio 2012\Projects\MyCIProject\MyCIProject\obj\Debug\MainWindow.baml
+c:\users\twalter\documents\visual studio 2012\Projects\MyCIProject\MyCIProject\obj\Debug\MainWindow.g.cs
+c:\users\twalter\documents\visual studio 2012\Projects\MyCIProject\MyCIProject\obj\Debug\App.g.cs
+c:\users\twalter\documents\visual studio 2012\Projects\MyCIProject\MyCIProject\obj\Debug\MyCIProject_MarkupCompile.cache
+c:\users\twalter\documents\visual studio 2012\Projects\MyCIProject\MyCIProject\obj\Debug\MyCIProject.g.resources
+c:\users\twalter\documents\visual studio 2012\Projects\MyCIProject\MyCIProject\obj\Debug\MyCIProject.Properties.Resources.resources
+c:\users\twalter\documents\visual studio 2012\Projects\MyCIProject\MyCIProject\obj\Debug\MyCIProject.csproj.GenerateResource.Cache
+c:\users\twalter\documents\visual studio 2012\Projects\MyCIProject\MyCIProject\obj\Debug\MyCIProject.exe
+c:\users\twalter\documents\visual studio 2012\Projects\MyCIProject\MyCIProject\obj\Debug\MyCIProject.pdb
