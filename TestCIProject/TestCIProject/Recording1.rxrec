@@ -38,7 +38,7 @@ rxversion="7.0">
 			<bindings>
 			</bindings>
 			<filename>
-				C:\Users\twalter\Documents\Ranorex\RanorexStudio Projects\MyCIProject\MyCIProject\bin\Debug\MyCIProject.exe
+				.\MyCIProject\MyCIProject\bin\Debug\MyCIProject.exe
 			</filename>
 			<workingdir>
 				C:\Users\twalter\Documents\Ranorex\RanorexStudio Projects\MyCIProject\MyCIProject\bin\Debug
@@ -56,7 +56,8 @@ rxversion="7.0">
 		optional="False"
 		searchpropertyid="54fbd215-589b-4205-a8fc-4b997404a150"
 		sx="188"
-		sy="128">
+		sy="128"
+		warnoutofbounds="False">
 			<comment>
 			</comment>
 			<bindings>
@@ -506,7 +507,8 @@ LTgKWigApaKKAP/Z
 		optional="False"
 		searchpropertyid="e1b20a0e-6f50-43f6-88a6-f3b29c2f549f"
 		sx="183"
-		sy="176">
+		sy="176"
+		warnoutofbounds="False">
 			<comment>
 			</comment>
 			<bindings>
@@ -1001,13 +1003,13 @@ FADNtG2n0UAM20bafRQAzbRtp9FADAtOApaKACloooA//9k=
 					</attribute>
 					<attribute
 					name="windowextendedstyle"
-					type="Ranorex.Core.WinApi.Win32+WindowExtendedStyles, Ranorex.Core.WinApi, Culture=neutral, PublicKeyToken=b798506b574ebc9a">
+					type="Ranorex.Core.WinApi.Win32+WindowExtendedStyles, Ranorex.Core.WinApi, Culture=neutral">
 						LeftToRightReading
 					</attribute>
 					<attribute
 					name="windowstyle"
-					type="Ranorex.Core.WinApi.Win32+WindowStyles, Ranorex.Core.WinApi, Culture=neutral, PublicKeyToken=b798506b574ebc9a">
-						Tiled
+					type="Ranorex.Core.WinApi.Win32+WindowStyles, Ranorex.Core.WinApi, Culture=neutral">
+						Overlapped
 					</attribute>
 					<attribute
 					name="wpfnative"
@@ -1424,7 +1426,7 @@ FADNtG2n0UAM20bafRQAzbRtp9FADAtOApaKACloooA//9k=
 	id="aa2dac02-433c-4207-8444-34e4b47b7407"
 	name="TestCIProjectRepository"
 	relativepath="TestCIProjectRepository.rxrep"
-	rxversion="6.1">
+	rxversion="7.0">
 		<codegen
 		classname="TestCIProjectRepository"
 		namespace="TestCIProject">

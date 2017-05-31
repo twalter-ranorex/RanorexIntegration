@@ -79,8 +79,8 @@ namespace TestCIProject
 
             Init();
 
-            Report.Log(ReportLevel.Info, "Application", "Run application 'C:\\Users\\twalter\\Documents\\Ranorex\\RanorexStudio Projects\\MyCIProject\\MyCIProject\\bin\\Debug\\MyCIProject.exe' with arguments '' in normal mode.", new RecordItemIndex(0));
-            Host.Local.RunApplication("C:\\Users\\twalter\\Documents\\Ranorex\\RanorexStudio Projects\\MyCIProject\\MyCIProject\\bin\\Debug\\MyCIProject.exe", "", "C:\\Users\\twalter\\Documents\\Ranorex\\RanorexStudio Projects\\MyCIProject\\MyCIProject\\bin\\Debug", false);
+            Report.Log(ReportLevel.Info, "Application", "Run application '.\\MyCIProject\\MyCIProject\\bin\\Debug\\MyCIProject.exe' with arguments '' in normal mode.", new RecordItemIndex(0));
+            Host.Local.RunApplication(".\\MyCIProject\\MyCIProject\\bin\\Debug\\MyCIProject.exe", "", "C:\\Users\\twalter\\Documents\\Ranorex\\RanorexStudio Projects\\MyCIProject\\MyCIProject\\bin\\Debug", false);
             Delay.Milliseconds(0);
             
             Report.Log(ReportLevel.Info, "Mouse", "Mouse Left Click item 'MainWindow.Button1' at 92;9.", repo.MainWindow.Button1Info, new RecordItemIndex(1));
